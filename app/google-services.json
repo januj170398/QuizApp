@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "520348456113",
+    "firebase_url": "https://quizz-app-cbdbe.firebaseio.com",
+    "project_id": "quizz-app-cbdbe",
+    "storage_bucket": "quizz-app-cbdbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520348456113:android:fd550d0fae4a370b7cbe90",
+        "android_client_info": {
+          "package_name": "com.tvacstudio.quizzapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520348456113-3r9les5ik69jqs4c6e5ujcctpf7hm3e9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tvacstudio.quizzapp",
+            "certificate_hash": "7508f9d2fc91fa9f89b060d5996ff3a33e0ba93e"
+          }
+        },
+        {
+          "client_id": "520348456113-9uavaf24dempv605j99hvt3o0q3hea0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVh0A75spO5WL1CyyH1hIc5rYHhToLjDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520348456113-9uavaf24dempv605j99hvt3o0q3hea0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
